@@ -10,7 +10,7 @@ Grid Layout
 3. Not started
 
 Foundations
-1. Not started
+1. Finished
 2. Not started
 3. Not started
 4. Not started
