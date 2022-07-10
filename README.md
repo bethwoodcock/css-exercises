@@ -11,7 +11,7 @@ Grid Layout
 
 Foundations
 1. Finished
-2. Not started
+2. Finished
 3. Not started
 4. Not started
 5. Not started
